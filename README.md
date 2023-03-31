@@ -10,7 +10,8 @@ While the code in this repository is not intended to be production-ready or even
 
 Please note that this repository is a work in progress, and I may continue to add new sections of code over time. If you have any feedback or suggestions, please feel free to reach out to me.
 
-**Getting Started**
+
+**Usage**
 
 To explore the code in this repository, simply clone the repository and open the notebooks in a Jupyter environment (made originally on VSCode). Each cell needs to be run independently of the others.
 
@@ -26,6 +27,7 @@ Embora o código neste repositório não seja destinado a ser pronto para produ�
 
 Observe que este repositório é um trabalho em andamento, e posso continuar a adicionar novas seções de código ao longo do tempo. Se você tiver algum feedback ou sugestão, sinta-se à vontade para entrar em contato comigo.
 
-**Começando**
+
+**Usabilidade**
 
 Para explorar o código neste repositório, simplesmente clone o repositório e abra os notebooks em um ambiente Jupyter (feito originalmente em VSCode). Cada célula precisa ser executada independentemente das outras.
